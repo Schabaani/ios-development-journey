@@ -14,6 +14,9 @@ During learning a new technology or a language, you will hear some new words, ke
 - [Stackoverflow](https://stackoverflow.com/questions/56434549/what-enables-swiftuis-dsl)
 - [eppz blog](http://blog.eppz.eu/understanding-swiftui-dsl-tupleview/)
 - [Swift by Sundell](https://www.swiftbysundell.com/tips/adding-swiftui-viewbuilder-to-functions/)
+5. @Enviroment
+- [Swift With Majid](https://swiftwithmajid.com/2019/08/21/the-power-of-environment-in-swiftui/)
+- [sarunw](https://sarunw.com/posts/what-is-environment-in-swiftui/)
 
 # Tutorials
 
