@@ -17,6 +17,8 @@ During learning a new technology or a language, you will hear some new words, ke
 5. @Enviroment
 - [Swift With Majid](https://swiftwithmajid.com/2019/08/21/the-power-of-environment-in-swiftui/)
 - [sarunw](https://sarunw.com/posts/what-is-environment-in-swiftui/)
+6. Grand Central Dispatch (GCD)
+- [Cocoa Casts](https://cocoacasts.com/swift-and-cocoa-fundamentals-threads-queues-and-concurrency)
 
 # Tutorials
 
