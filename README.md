@@ -22,6 +22,8 @@ During learning a new technology or a language, you will hear some new words, ke
 - [Hacking with Swift](https://www.hackingwithswift.com/read/9/overview)
 7. Redux-like
 - [Swift With Majid](https://swiftwithmajid.com/2019/09/18/redux-like-state-container-in-swiftui/)
+8. Never type
+- [Sundeep Gupta](https://medium.com/connected/express-impossible-code-in-swift-with-never-db5b4d3f74a0)
 
 # Tutorials
 
