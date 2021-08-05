@@ -20,6 +20,8 @@ During learning a new technology or a language, you will hear some new words, ke
 6. Grand Central Dispatch (GCD)
 - [Cocoa Casts](https://cocoacasts.com/swift-and-cocoa-fundamentals-threads-queues-and-concurrency)
 - [Hacking with Swift](https://www.hackingwithswift.com/read/9/overview)
+7. Redux-like
+- [Swift With Majid](https://swiftwithmajid.com/2019/09/18/redux-like-state-container-in-swiftui/)
 
 # Tutorials
 
