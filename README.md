@@ -19,6 +19,7 @@ During learning a new technology or a language, you will hear some new words, ke
 - [sarunw](https://sarunw.com/posts/what-is-environment-in-swiftui/)
 6. Grand Central Dispatch (GCD)
 - [Cocoa Casts](https://cocoacasts.com/swift-and-cocoa-fundamentals-threads-queues-and-concurrency)
+- [Hacking with Swift](https://www.hackingwithswift.com/read/9/overview)
 
 # Tutorials
 
