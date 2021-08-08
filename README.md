@@ -24,6 +24,11 @@ During learning a new technology or a language, you will hear some new words, ke
 - [Swift With Majid](https://swiftwithmajid.com/2019/09/18/redux-like-state-container-in-swiftui/)
 8. Never type
 - [Sundeep Gupta](https://medium.com/connected/express-impossible-code-in-swift-with-never-db5b4d3f74a0)
+9. Core Data
+- [Hack With Swift](https://www.hackingwithswift.com/quick-start/swiftui/introduction-to-using-core-data-with-swiftui)
+10. Opaque return type
+- [Swift By Sundell](https://alfianlosari.medium.com/understanding-opaque-return-types-in-swift-9c36fb5dfa86)
+- [Alfian Losari](https://alfianlosari.medium.com/understanding-opaque-return-types-in-swift-9c36fb5dfa86)
 
 # Tutorials
 
@@ -32,3 +37,6 @@ During learning a new technology or a language, you will hear some new words, ke
 
 
 # Follow
+
+1. [Paul Hudson](https://twitter.com/twostraws)
+2. [Sean Allen](https://www.youtube.com/seanallen)
