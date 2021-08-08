@@ -29,6 +29,8 @@ During learning a new technology or a language, you will hear some new words, ke
 10. Opaque return type
 - [Swift By Sundell](https://alfianlosari.medium.com/understanding-opaque-return-types-in-swift-9c36fb5dfa86)
 - [Alfian Losari](https://alfianlosari.medium.com/understanding-opaque-return-types-in-swift-9c36fb5dfa86)
+11. required init
+- [Learn App Making](https://learnappmaking.com/initializers-init-swift-how-to/)
 
 # Tutorials
 
