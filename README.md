@@ -44,7 +44,9 @@ During learning a new technology or a language, you will hear some new words, ke
 3. [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 
 
+
 # Follow
 
 1. [Paul Hudson](https://twitter.com/twostraws)
 2. [Sean Allen](https://www.youtube.com/seanallen)
+3. [Kavsoft](https://www.youtube.com/c/Kavsoft)
