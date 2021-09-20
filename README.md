@@ -31,6 +31,11 @@ During learning a new technology or a language, you will hear some new words, ke
 - [Alfian Losari](https://alfianlosari.medium.com/understanding-opaque-return-types-in-swift-9c36fb5dfa86)
 11. required init
 - [Learn App Making](https://learnappmaking.com/initializers-init-swift-how-to/)
+12. Pattern Matching in Swift
+- [Raywenderlich](https://www.raywenderlich.com/1008-pattern-matching-in-swift)
+- [Majid](https://swiftwithmajid.com/2019/02/06/pattern-matching-with-case-let/)
+- [Codingexplorer](https://www.codingexplorer.com/pattern-matching-in-swift/)
+
 
 # Tutorials
 
