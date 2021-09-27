@@ -35,6 +35,8 @@ During learning a new technology or a language, you will hear some new words, ke
 - [Raywenderlich](https://www.raywenderlich.com/1008-pattern-matching-in-swift)
 - [Majid](https://swiftwithmajid.com/2019/02/06/pattern-matching-with-case-let/)
 - [Codingexplorer](https://www.codingexplorer.com/pattern-matching-in-swift/)
+13. Custom ViewModifiers
+- [Swiftful Thinking](https://www.youtube.com/watch?v=MQl4DlDf_5k&list=PLwvDm4Vfkdphc1LLLjCaEd87BEg07M97y&index=4)
 
 
 # Tutorials
