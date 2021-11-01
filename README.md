@@ -37,6 +37,9 @@ During learning a new technology or a language, you will hear some new words, ke
 - [Codingexplorer](https://www.codingexplorer.com/pattern-matching-in-swift/)
 13. Custom ViewModifiers
 - [Swiftful Thinking](https://www.youtube.com/watch?v=MQl4DlDf_5k&list=PLwvDm4Vfkdphc1LLLjCaEd87BEg07M97y&index=4)
+14. Key-Value Observing (KVO)
+- [Hacking With Swift](https://www.hackingwithswift.com/example-code/language/what-is-key-value-observing)
+- [Apple](https://developer.apple.com/documentation/swift/cocoa_design_patterns/using_key-value_observing_in_swift)
 
 
 # Tutorials
