@@ -40,6 +40,8 @@ During learning a new technology or a language, you will hear some new words, ke
 14. Key-Value Observing (KVO)
 - [Hacking With Swift](https://www.hackingwithswift.com/example-code/language/what-is-key-value-observing)
 - [Apple](https://developer.apple.com/documentation/swift/cocoa_design_patterns/using_key-value_observing_in_swift)
+15. What is #keyPath?
+- [learnappmaking](https://learnappmaking.com/swift-keypath-how-to/)
 
 
 # Tutorials
