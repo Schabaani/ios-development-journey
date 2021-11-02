@@ -1,5 +1,5 @@
 # ios-development-journey
-During learning a new technology or a language, you will hear some new words, keywords, concepts or something like them. As I am learning SwiftUI, I want to record these new concepts and keywords. Also, add some useful link for each of them. I have 2 reasons for creating this repo. First, it will help me to organize my knowledge during this journey. Second, I hope it helps other jounior developers to find concepts that they need. This repo has 3 parts: 1. Concepts and Keywords 2. Tutorial and 3. Follow
+During learning a new technology or a language, you will hear some new words, keywords, concepts or something like them. As I am learning SwiftUI, I want to record these new concepts and keywords. Also, add some useful link for each of them. I have 2 reasons for creating this repo. First, it will help me to organize my knowledge during this journey. Second, I hope it helps other junior developers to find concepts that they need. This repo has 3 parts: 1. Concepts and Keywords 2. Tutorial and 3. Follow
 
 # Concepts and keywords
 1. Property wrapper
