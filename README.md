@@ -42,7 +42,8 @@ During learning a new technology or a language, you will hear some new words, ke
 - [Apple](https://developer.apple.com/documentation/swift/cocoa_design_patterns/using_key-value_observing_in_swift)
 15. What is #keyPath?
 - [learnappmaking](https://learnappmaking.com/swift-keypath-how-to/)
-
+16. Escaping closure
+- [learnappmaking](https://learnappmaking.com/escaping-closures-swift/)
 
 # Tutorials
 
