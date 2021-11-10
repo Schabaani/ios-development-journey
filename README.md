@@ -51,6 +51,7 @@ During learning a new technology or a language, you will hear some new words, ke
 2. [Develop Apps for iOS By Apple](https://developer.apple.com/tutorials/app-dev-training)
 3. [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 4. [Swiftful Thinking](https://www.youtube.com/c/SwiftfulThinking)
+5. [The Stanford cs193p](https://cs193p.sites.stanford.edu)
 
 
 # Follow
