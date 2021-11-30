@@ -59,3 +59,5 @@ During learning a new technology or a language, you will hear some new words, ke
 1. [Paul Hudson](https://twitter.com/twostraws)
 2. [Sean Allen](https://www.youtube.com/seanallen)
 3. [Kavsoft](https://www.youtube.com/c/Kavsoft)
+4. [Swift Arcade](https://www.youtube.com/channel/UCxnCA5FBYRCFgIZWD0CKCVg)
+
