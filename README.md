@@ -44,6 +44,10 @@ During learning a new technology or a language, you will hear some new words, ke
 - [learnappmaking](https://learnappmaking.com/swift-keypath-how-to/)
 16. Escaping closure
 - [learnappmaking](https://learnappmaking.com/escaping-closures-swift/)
+17. Communication Patterns
+- [Rebeloper - Protocol Delegate](https://www.youtube.com/watch?v=UQnSdXFDAQQ)
+- [Sean Allen - Protocol Delegate](https://www.youtube.com/watch?v=DBWu6TnhLeY)
+- [Sean Allen - Observer & Notification](https://www.youtube.com/watch?v=srqiDnLEocA)
 
 # Tutorials
 
