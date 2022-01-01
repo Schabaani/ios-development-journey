@@ -48,6 +48,8 @@ During learning a new technology or a language, you will hear some new words, ke
 - [Rebeloper - Protocol Delegate](https://www.youtube.com/watch?v=UQnSdXFDAQQ)
 - [Sean Allen - Protocol Delegate](https://www.youtube.com/watch?v=DBWu6TnhLeY)
 - [Sean Allen - Observer & Notification](https://www.youtube.com/watch?v=srqiDnLEocA)
+- [iOS Academy - Datasource Pattern](https://www.youtube.com/watch?v=V1USraqCcyg)
+- [iOS Academy = Datasource & Delegate](https://www.youtube.com/watch?v=3MsEYnKdLSw)
 
 # Tutorials
 
