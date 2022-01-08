@@ -49,7 +49,9 @@ During learning a new technology or a language, you will hear some new words, ke
 - [Sean Allen - Protocol Delegate](https://www.youtube.com/watch?v=DBWu6TnhLeY)
 - [Sean Allen - Observer & Notification](https://www.youtube.com/watch?v=srqiDnLEocA)
 - [iOS Academy - Datasource Pattern](https://www.youtube.com/watch?v=V1USraqCcyg)
-- [iOS Academy = Datasource & Delegate](https://www.youtube.com/watch?v=3MsEYnKdLSw)
+- [iOS Academy - Datasource & Delegate](https://www.youtube.com/watch?v=3MsEYnKdLSw)
+18. Pass by value vs Pass by reference
+- [Swift Arcade](https://www.youtube.com/watch?v=4ocXiQ6mIuk)
 
 # Tutorials
 
